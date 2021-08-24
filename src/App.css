@@ -1,0 +1,19 @@
+
+.app-grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 16px;
+  row-gap:16px;
+}
+.nature-item img{
+  display: block;
+  width: 100%;
+}
+.app-section {
+  padding: 20px;
+}
+.app-container {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
